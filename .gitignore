@@ -13,3 +13,7 @@ venv/
 *.sln.docstates
 .vscode
 *.code-workspace
+
+# PyCharm
+
+.idea
